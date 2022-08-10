@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basicAppium.TodoTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-10T03:48:21" hostname="LAPTOP-R1N56CGP" time="18.441">
+  <properties/>
+  <testcase name="appiumTest()" classname="basicAppium.TodoTest" time="18.441"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+]]></system-err>
+</testsuite>
